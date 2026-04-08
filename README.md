@@ -2,8 +2,8 @@
 
 Cybersecurity Enthusiast | SOC Analyst | Security Monitoring  
 
-Focused on practical cybersecurity labs including security monitoring, 
-log analysis, threat detection, and incident response.
+Building hands-on SOC detection labs and incident response workflows.  
+Focused on practical cybersecurity labs including security monitoring, log analysis, threat detection, and incident response.
 
 ## Interests
 - Security Operations Center (SOC)
@@ -13,22 +13,10 @@ log analysis, threat detection, and incident response.
 - Cybersecurity Lab Simulations
 
 ## Tools & Technologies
-Wazuh · TheHive · Kali Linux · Metasploit · Windows · Linux
+- Wazuh
+- TheHive
+- Kali Linux
+- Metasploit
 
 ## Current Focus
-Working on hands-on cybersecurity labs and improving detection 
-and incident response skills.
-<!--
-**dhruvil2324/dhruvil2324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on hands-on cybersecurity labs to strengthen detection, investigation, and incident response capabilities.
