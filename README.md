@@ -12,7 +12,7 @@ Final-year B.E. CSE (Cyber Security) student focused on building practical skill
 | [exploitation-system-security-lab](https://github.com/dhruvil2324/exploitation-system-security-lab) | Full pentest workflow on Metasploitable2 — recon, exploitation, post-exploitation |
 | [network-reconnaissance-lab](https://github.com/dhruvil2324/network-reconnaissance-lab) | Network scanning, packet analysis, vulnerability assessment, and firewall testing |
 | [cyart-soc-team](https://github.com/dhruvil2324/cyart-soc-team) | Wazuh-based SOC lab — detection rules, log analysis, alert investigation |
-| [kali-linux-lab-setup](https://github.com/dhruvil2324/kali-linux-lab-setup) | Lab environment setup guide — Kali, VirtualBox, Metasploitable2, and tool walkthrough |
+| [kali-linux-lab-setup](https://github.com/dhruvil2324/Foundation_Environment_Setup) | Lab environment setup guide — Kali, VirtualBox, Metasploitable2, and tool walkthrough |
 
 ---
 
