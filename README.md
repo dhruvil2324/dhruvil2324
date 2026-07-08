@@ -26,12 +26,6 @@ Final-year B.E. CSE (Cyber Security) student focused on building practical skill
 
 ---
 
-## Background
-
-- Final-year B.E. CSE (Cyber Security) student
-- Diploma in Computer Engineering
-
----
 
 ## Connect
 
